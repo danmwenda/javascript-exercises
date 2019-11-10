@@ -249,7 +249,8 @@ describe("basics", function() {
             // By observing their casting behavior in the tests below, you can find
             // out the required types.
             // ✏️ ADD CODE HERE ✏️
-
+            let firstVariable = 3;
+            let secondVariable = '1';
             ////////////////////////////////////////////////////////////////////
 
             expect(typeof firstVariable).to.equal("number");
