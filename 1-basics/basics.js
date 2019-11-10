@@ -267,6 +267,7 @@ describe("basics", function() {
             ////////////////////////////////////////////////////////////////////
             // Can you find a string that casts to `false` in an if() statement?
             // ✏️ ADD CODE HERE ✏️
+            let falsyString = '';
 
             ////////////////////////////////////////////////////////////////////
 
