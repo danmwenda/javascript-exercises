@@ -285,6 +285,9 @@ describe("basics", function() {
             ////////////////////////////////////////////////////////////////////
             // Can you find two different numbers that each cast to `false` in an if() statement?
             // ✏️ ADD CODE HERE ✏️
+             let falsyNumber1 = NaN;
+             let falsyNumber2 = falsyNumber1;
+
 
             ////////////////////////////////////////////////////////////////////
 
