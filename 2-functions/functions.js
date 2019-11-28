@@ -140,6 +140,8 @@ describe("functions", function() {
             // and 'answerSecondResult' with the correct results.
             // If you call getContext() here, you're a cheater! :)
             // ✏️ ADD CODE HERE ✏️
+            let answerFirstResult = object;
+            let answerSecondResult = differentObject;
 
             ////////////////////////////////////////////////////////////////////
 
