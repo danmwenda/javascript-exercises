@@ -723,7 +723,7 @@ describe("functions", function() {
             function calculateSum() {
                 let result = 0;
 
-                arguments.forEach(function(number) {
+                Array.from(arguments).forEach(function(number) {
                     result = result + number;
                 });
 
