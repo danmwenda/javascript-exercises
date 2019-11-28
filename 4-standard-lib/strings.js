@@ -48,6 +48,9 @@ describe("strings", function() {
 
             ////////////////////////////////////////////////////////////////////
             // ✏️ ADD CODE HERE. USE THE STANDARD LIB! ✏️
+            function letterAt(string) {
+                return text.charAt(string);
+            }
 
             ////////////////////////////////////////////////////////////////////
 
