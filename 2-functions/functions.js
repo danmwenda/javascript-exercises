@@ -346,6 +346,9 @@ describe("functions", function() {
             ////////////////////////////////////////////////////////////////////
             // Can you implement a function 'myFunction' that returns a reference to itself?
             // ✏️ ADD CODE HERE ✏️
+            function myFunction() {
+                return myFunction
+            }
 
             ////////////////////////////////////////////////////////////////////
 
