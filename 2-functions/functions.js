@@ -27,7 +27,7 @@ describe("functions", function() {
 
             ////////////////////////////////////////////////////////////////////
             // ✏️ ADD CODE HERE ✏️
-
+            let myFunction = function(){};
             ////////////////////////////////////////////////////////////////////
 
             myFunction(); // myFunction should be callable now
